@@ -70,6 +70,3 @@ yargs.command({
 })
 
 yargs.parse()
-
-
-
