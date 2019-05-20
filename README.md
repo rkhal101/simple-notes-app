@@ -21,5 +21,3 @@ The following are the commands you can use in the application.
 ### Read Note
 
     node app.js read --title="title-of-note"
-
-
