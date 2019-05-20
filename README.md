@@ -1,6 +1,6 @@
 # Notes Application
 
-Simple NodeJS application that allows you to create, delete, list and view notes using the command line. The application uses the [chalk](https://www.npmjs.com/package/chalk) API to customize the console. This application was developed as part of the [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/).
+Simple NodeJS application that allows you to create, delete, list and view notes using the command line. The application uses the [chalk](https://www.npmjs.com/package/chalk) API to customize the console output. This application was developed as part of the [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/the-complete-nodejs-developer-course-2/).
 
 ## Commands
 
