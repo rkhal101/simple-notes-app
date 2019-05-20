@@ -6,11 +6,11 @@ Simple NodeJS application that allows you to create, delete, list and view notes
 
 The following are the commands you can use in the application.
 
-### Add a Note
+### Add Note
 
     node app.js add --title="title-of-note" --body="body-of-note"
     
-### Remove a Note
+### Remove Note
 
     node app.js remove --title="title-of-note"
 
