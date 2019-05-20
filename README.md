@@ -25,3 +25,18 @@ The following are the commands you can use in the application.
 
 ## Sample Commands and Corresponding Output
     node app.js add --title="Things to Do" --body="Don't forget to get groceries."
+
+![add_note](/sample-output-pics/add-note.png)
+
+    node app.js add --title="Things to Do" --body="Don't forget to get groceries."
+
+![add_existing_note](/sample-output-pics/add-existing-note.png)
+
+    node app.js read --title="Things to Do"
+
+![read_note](/sample-output-pics/read-note.png)
+
+    node app.js read --title="Non existing note"
+
+![read_non_existing_note](/sample-output-pics/read-non-existing-note.png)
+
